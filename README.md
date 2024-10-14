@@ -1,16 +1,13 @@
-# flutter3
+# flutter3 Мамонтов Андрей Игоревич ЭФБО-01-22
 
-A new Flutter project.
+Структура проекта
+<img width="339" alt="image" src="https://github.com/user-attachments/assets/4fe7a75a-48d2-4449-a193-58810fbaecdf">
 
-## Getting Started
+Товары
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/3383e2ad-9ffc-4f86-9654-2d0b24d1e3e6">
 
-This project is a starting point for a Flutter application.
+Основная страница
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/6d52d282-b03b-49b3-86e4-622b388fbb48">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Карточка товара
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/11c66eb3-5c20-4db6-95eb-3d079bfc2d5d">
