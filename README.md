@@ -1,5 +1,7 @@
 # flutter3 Мамонтов Андрей Игоревич ЭФБО-01-22
 
+Проболел 24.09 и 01.10 (даты сдачи 3 и 4 работы соответственно)
+
 1. Структура проекта
 
 <img width="339" alt="image" src="https://github.com/user-attachments/assets/4fe7a75a-48d2-4449-a193-58810fbaecdf">
